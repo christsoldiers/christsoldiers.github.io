@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/christ-soldiers-talent-test/static/css/main.458b17bb.css",
-    "main.js": "/christ-soldiers-talent-test/static/js/main.f7e52146.js",
+    "main.css": "/christ-soldiers-talent-test/static/css/main.e1dcf195.css",
+    "main.js": "/christ-soldiers-talent-test/static/js/main.27f87843.js",
     "static/js/453.cebfac77.chunk.js": "/christ-soldiers-talent-test/static/js/453.cebfac77.chunk.js",
     "index.html": "/christ-soldiers-talent-test/index.html",
-    "main.458b17bb.css.map": "/christ-soldiers-talent-test/static/css/main.458b17bb.css.map",
-    "main.f7e52146.js.map": "/christ-soldiers-talent-test/static/js/main.f7e52146.js.map",
+    "main.e1dcf195.css.map": "/christ-soldiers-talent-test/static/css/main.e1dcf195.css.map",
+    "main.27f87843.js.map": "/christ-soldiers-talent-test/static/js/main.27f87843.js.map",
     "453.cebfac77.chunk.js.map": "/christ-soldiers-talent-test/static/js/453.cebfac77.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.458b17bb.css",
-    "static/js/main.f7e52146.js"
+    "static/css/main.e1dcf195.css",
+    "static/js/main.27f87843.js"
   ]
 }
