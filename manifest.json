@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "BGA - Christ Soldiers",
+  "name": "Christ Soldiers Talent Test Manager - A comprehensive platform for managing talent competitions, participant registration, judge scoring, and results tracking.",
   "icons": [
     {
       "src": "favicon.ico",
